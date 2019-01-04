@@ -1,2 +1,1 @@
-ArmGuider simple Game
-*.qml *.js
+A hexagoal puzzle game developed by qml
