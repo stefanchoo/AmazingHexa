@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>hexagame.qml</file>
+        <file>views/EndEffect.qml</file>
+        <file>views/Hexagonal.qml</file>
+        <file>views/CombineGroup.qml</file>
+        <file>views/Combine.qml</file>
+        <file>views/Graph.qml</file>
+        <file>images/120px-Blue_circle_logo.svg.png</file>
+        <file>images/120px-Loading_indicator_circle.svg.png</file>
+        <file>icons/icons.qrc</file>
+        <file>icons/shape_hexagoal.svg</file>
+        <file>icons/shape_hexagoal_board.svg</file>
+        <file>controllers/Hexagoal.js</file>
+        <file>controllers/Combine.js</file>
+        <file>controllers/CombineGroup.js</file>
+        <file>controllers/Graph.js</file>
+        <file>controllers/EndEffect.js</file>
+        <file>views/GameScreen.qml</file>
+        <file>views/Circle.qml</file>
+        <file>controllers/Circle.js</file>
+        <file>controllers/GameControl.js</file>
+        <file>controllers/GameScreen.js</file>
+        <file>views/InfoBar.qml</file>
+        <file>images/level2.png</file>
+        <file>images/level3.png</file>
+        <file>images/level4.png</file>
+        <file>images/level5.png</file>
+        <file>images/level6.png</file>
+        <file>images/level7.png</file>
+        <file>images/level8.png</file>
+        <file>images/level9.png</file>
+        <file>images/level10.png</file>
+        <file>images/level1.png</file>
+        <file>images/levelup.png</file>
+        <file>icons/info_help.svg</file>
+        <file>icons/shape_crown.svg</file>
+        <file>views/Emitter.qml</file>
+        <file>images/star.png</file>
+        <file>images/whiteCircle.png</file>
+        <file>views/EndEffectAction.qml</file>
+        <file>views/HelpPage.qml</file>
+        <file>views/GameButton.qml</file>
+        <file>icons/info_back.svg</file>
+    </qresource>
+</RCC>
